@@ -1,5 +1,5 @@
 # AstroVianu-AstroPi
-AstroVianu Team's code for the Astro Pi European Challenge 2017
+We are AstroVianu Team, from "Tudor Vianu" National High School of Computer Science, Bucharest, Romania and we are honored to have participated in the European Astro Pi Challenge 2016-2017. In this repository we included our code that ran, in the final phase of the competition, on the International Space Station on 29/04/2017, from 14:48 to 17:48.
 
 ## Primary Mission - Human Presence Detection in the ISS Columbus Module
 - makes use of the accelerometer, gyroscope, and the humidity sensor
