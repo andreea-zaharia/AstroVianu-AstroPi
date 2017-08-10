@@ -15,4 +15,5 @@ We are AstroVianu Team, from "Tudor Vianu" National High School of Computer Scie
 ### Data Acquistion Code Description
 - measures the magnetic induction (in microteslas), on the three axes, x, y and z, and the direction of North, in degrees, using the incorporated magnetometer
 - keeps track of the data from the IMU, to calculate the acceleration. 
-- creates a table printing for each measurement the said magnetic induction on axes, along with the full timestamp corresponding to the exact time. Although we use only the accelerometer and the magnetometer in this mission per se, the code is also going to provide in the same table data collected using the environmental sensors (temperature, pressure and humidity), since we would be interested to research more and observe if there are any other parameters that might change, which are not part of the mission we have chosen. 
+- creates a table printing for each measurement the said magnetic induction on axes, along with the full timestamp corresponding to the exact time
+- provides in the same table data collected using the environmental sensors (temperature, pressure and humidity), since we would be interested to research more and observe if there are any other parameters that might change
