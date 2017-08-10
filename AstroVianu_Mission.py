@@ -154,7 +154,6 @@ else:
 fileSetup(filename)
 
 
-
 while True:
 
     currentTime = time.clock()
