@@ -1,5 +1,6 @@
 # AstroVianu-AstroPi
-We are AstroVianu Team, from "Tudor Vianu" National High School of Computer Science, Bucharest, Romania and we are honored to have participated in the European Astro Pi Challenge 2016-2017. In this repository we included our code that ran, in the final phase of the competition, on the International Space Station on 29/04/2017, from 14:48 to 17:48.
+We are AstroVianu Team, from "Tudor Vianu" National High School of Computer Science, Bucharest, Romania and we are honored to have participated in the European Astro Pi Challenge 2016-2017. In this repository we included our code that ran, in the final phase of the competition, on the International Space Station on 29/04/2017, from 14:48 to 17:48. 
+We would like to thank the organizers of this competition for offering us this wonderful chance!
 
 
 ## Primary Mission - Human Presence Detection in the ISS Columbus Module
@@ -12,6 +13,7 @@ We are AstroVianu Team, from "Tudor Vianu" National High School of Computer Scie
 - has a global flag, humanPresence, tracking the state of the detection activity, which is equal to one if an astronaut is currently in the module - the calibration subprogram will not run while an astronaut is in the module
 
 ## Secondary Mission - Magnetic Field Study
+Preoccupied with the effects that the geomagnetic reversal might have on Earth's magnetic field and, consequently, on the radiation protection, we are grateful for having had the opportunity to study the intensity of the magnetic field within the Astro Pi Challenge.
 ### Data Acquistion Code Description
 - measures the magnetic induction (in microteslas), on the three axes, x, y and z, and the direction of North, in degrees, using the incorporated magnetometer
 - keeps track of the data from the IMU, to calculate the acceleration. 
