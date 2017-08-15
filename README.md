@@ -19,3 +19,4 @@ Preoccupied with the effects that the geomagnetic reversal might have on Earth's
 - keeps track of the data from the IMU, to calculate the acceleration. 
 - creates a table printing for each measurement the said magnetic induction on axes, along with the full timestamp corresponding to the exact time
 - provides in the abovementioned table data collected using the environmental sensors (temperature, pressure and humidity), since we would be interested to research more and observe if there are any other parameters that might change
+
